@@ -250,5 +250,5 @@ For support and questions:
 - [ ] Mobile app development
 
 ---
-
+**PUBLIC CODE NOT available at this time**
 **Built with ❤️ using Astro and Go** 
